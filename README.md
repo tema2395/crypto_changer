@@ -1,1 +1,1 @@
-Hello
+Simple crypto exchange bot for telegram
